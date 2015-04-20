@@ -1,0 +1,12 @@
+{
+   "name" : "rapture",
+   "version" : "0.0.0",
+   "description" : "This is a plugin to add Rapture highlighting and syntax to Cloud9.",
+   "license" : "GPL-3.0",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/imperian/rapture.git"
+   },
+   "plugins": { "rapture": {} }
+   
+}
